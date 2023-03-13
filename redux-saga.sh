@@ -30,7 +30,6 @@ touch client-admin-saga.js
 touch root-saga.js
 cd ..
 # Inside src
-mkdir http
 cd http
 # Inside http
 touch client-admin.js
