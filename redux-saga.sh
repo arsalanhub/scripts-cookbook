@@ -1,4 +1,5 @@
 # Create All required file and folder
+cd $1
 cd src
 # Inside src
 mkdir redux

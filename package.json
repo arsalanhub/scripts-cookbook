@@ -1,0 +1,23 @@
+{
+  "name": "sh-cookbook",
+  "version": "1.0.0",
+  "description": "1. For setting up Redux & Saga run the following commands inside react root directory\r ```sh\r $ curl -s https://raw.githubusercontent.com/arsalanhub/sh-cookbook/main/redux-saga.sh | bash\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalanhub/sh-cookbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalanhub/sh-cookbook/issues"
+  },
+  "homepage": "https://github.com/arsalanhub/sh-cookbook#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
